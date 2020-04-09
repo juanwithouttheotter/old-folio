@@ -1,0 +1,12 @@
+/* Navigation bar and Body */
+.nav-style {
+    color: #f5e7c9;
+    background-color:#2321bd;
+}
+/*why didn't the css naturally change the link color withouth using !important?*/
+.nav-link {
+    color: #f5e7c9 !important;
+}
+.background {
+    background-color: #9ccaf0;
+}
