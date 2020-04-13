@@ -3,7 +3,7 @@
     color: #f5e7c9;
     background-color:#2321bd;
 }
-/*why didn't the css naturally change the link color withouth using !important?*/
+
 .link-color {
     color: #f5e7c9;
 }
