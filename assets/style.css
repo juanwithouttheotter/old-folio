@@ -3,13 +3,16 @@
     color: #ffffff;
     background-color:#2321bd;
 }
-
 .background {
     background-color: #9ccaf0;
 }
+
+/* container background color */
 .content {
     background-color: #a4b9c7;
 }
+
+/* footer and hearder styling */
 .thick {
     height: 4px;
     background-color: #ffffff;
