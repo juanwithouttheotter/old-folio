@@ -11,7 +11,7 @@
 </head>
 
 <body class="background">
-    <div class="container-fluid sticky-top">
+    <header class="container-fluid sticky-top">
         <nav class="navbar navbar-expand-lg nav-style navbar-dark row">
             <h1 class="mx-auto">Juan M. Osorio</h1>
             <ul class="navbar-nav mt-lg-0 flex-row mx-auto">
@@ -26,9 +26,10 @@
                 </li>
             </ul>
         </nav>
-    </div>
+        <div class="row thick"></div>
+    </header>
 
-    <div class="container content my-4 p-3 px-5">
+    <main class="container content my-4 p-3 px-5">
         <h2 class="border-bottom border-dark p-1">Contact</h2>
         <form action="/action_page.php">
             <div class="form-group">
@@ -43,10 +44,17 @@
                 <label for="Textarea">Message:</label>
                 <textarea class="form-control" id="Textarea1" rows="5"></textarea>
             </div>
-                <button type="submit" class="btn btn-primary mb-3">Submit</button>
+            <button type="submit" class="btn btn-primary mb-3">Submit</button>
         </form>
-    </div>
-
+    </main>
+    <footer class="fixed-bottom nav-style container-fluid">
+        <div class="row thick"></div>
+        <div class="row">
+            <div class="col-md-4"></div>
+            <span class="mr-auto col-md-4 text-center"> &copy; Copywrite</span>
+            <div class="col-md-4"></div>
+        </div>
+    </footer>
 </body>
 
 </html>
