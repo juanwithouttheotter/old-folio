@@ -10,3 +10,7 @@
 .content {
     background-color: #a4b9c7;
 }
+.thick {
+    height: 4px;
+    background-color: #ffffff;
+}
