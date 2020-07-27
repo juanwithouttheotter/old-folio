@@ -1,0 +1,32 @@
+[
+    {
+        "urlTag": "Pass-Gen",
+        "imgRoute": "pass-gen-image.png",
+        "altTag": "Password generator website screenshot"
+    },
+    {
+        "urlTag": "morndusk-planner",
+        "imgRoute": "morndusk-planner-image.png",
+        "altTag": "Day planner website screenshot"
+    },
+    {
+        "urlTag": "weather-today-or-tomorrow",
+        "imgRoute": "weather-today-or-tomorrow-image.png",
+        "altTag": "weather app screenshot"
+    },
+    {
+        "urlTag": "Movie-Weather-Solutions",
+        "imgRoute": "Movie-weather-solutions-image.png",
+        "altTag": "Movie weather app screenshot"
+    },
+    {
+        "urlTag": "Marvelous-Markdown-Generator",
+        "imgRoute": "Marvelous-Markdown-Generator-image.png",
+        "altTag": "Markdown generator app screenshot"
+    },
+    {
+        "urlTag": "celeb-o-knowledge",
+        "imgRoute": "celeb-o-knowledge-image.png",
+        "altTag": "Celebration of knowledge app screenshot"
+    }
+]

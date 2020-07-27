@@ -17,3 +17,7 @@
     height: 4px;
     background-color: #ffffff;
 }
+/* paragraph indent */
+p {
+    text-indent: 50px;
+}
